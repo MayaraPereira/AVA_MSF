@@ -1,0 +1,63 @@
+http://localhost/MusicaSemFronteiras/
+
+Usuários MSF
+
+http://localhost/MusicaSemFronteiras/course/admin.php?courseid=1
+Administrador MVO: admin - EAD192msfMVO*
+
+usuários:
+matricula	nome			senha
+162080069	Maria da Silva	EAD192msfALUNO*
+142086657	José da Silva	EAD192msfPROF*
+152098753	Pedro da Silva	EAD192msfTUTOR*
+
+cursos:
+Nome						ABV	Data				ID
+NÍVEL 1 – VIOLÃO DO ZERO	N1	07/10/19-07/01/20	710701
+
+
+cor fundo: 646e77
+cor barra superior: cd9391
+cor botao menu: efe9e9bd
+
+<nav class="fixed-top navbar navbar-light bg-white navbar-expand moodle-has-zindex" aria-label="Navegação no site" id="yui_3_17_2_1_1570307612408_25">
+    
+            <div data-region="drawer-toggle" class="d-inline-block mr-3">
+                <button aria-expanded="false" aria-controls="nav-drawer" type="button" class="btn nav-link float-sm-left mr-1 btn-light bg-gray" data-action="toggle-drawer" data-side="left" data-preference="drawer-open-nav"><i class="icon fa fa-bars fa-fw " aria-hidden="true"></i><span class="sr-only">Painel lateral</span></button>
+            </div>
+    
+            <a href="http://localhost/MusicaSemFronteiras" class="navbar-brand has-logo
+                    ">
+                    <span class="logo d-none d-sm-inline">
+                        <img src="http://localhost/MusicaSemFronteiras/pluginfile.php/1/core_admin/logocompact/100x100/1570303767/logop.png" alt="MSF">
+                    </span>
+                <span class="site-name d-none d-md-inline">MSF</span>
+            </a>
+    
+            <ul class="navbar-nav d-none d-md-flex" id="yui_3_17_2_1_1570307612408_24">
+                <!-- custom_menu -->
+                <li class="dropdown nav-item" id="yui_3_17_2_1_1570307612408_23">
+    
+    <div class="dropdown-menu" role="menu" id="drop-down-menu-5d98fe1c5385d5d98fe1c4eddd4" aria-labelledby="drop-down-5d98fe1c5385d5d98fe1c4eddd4">
+                <a class="dropdown-item" role="menuitem" href="http://localhost/MusicaSemFronteiras/?lang=en" title="English ‎(en)‎">English ‎(en)‎</a>
+                <a class="dropdown-item" role="menuitem" href="http://localhost/MusicaSemFronteiras/?lang=pt_br" title="Português - Brasil ‎(pt_br)‎">Português - Brasil ‎(pt_br)‎</a>
+    </div>
+</li>
+                <!-- page_heading_menu -->
+                
+            </ul>
+            <ul class="nav navbar-nav ml-auto">
+                <div class="d-none d-lg-block">
+                
+            </div>
+                <!-- navbar_plugin_output -->
+                <li class="nav-item">
+                
+                </li>
+                <!-- user_menu -->
+                <li class="nav-item d-flex align-items-center">
+                    <div class="usermenu"><span class="login">Você ainda não se identificou. (<a href="http://localhost/MusicaSemFronteiras/login/index.php">Acessar</a>)</span></div>
+                </li>
+            </ul>
+            <!-- search_box -->
+    </nav>
